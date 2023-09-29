@@ -228,6 +228,9 @@ app.get('/user/puan', (req, res) => {
 //PUT
 
 
+//POST
+
+
 
 // app.get('/test', (req, res) => {
 //     return res.json({
